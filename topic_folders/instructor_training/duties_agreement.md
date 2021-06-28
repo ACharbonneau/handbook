@@ -11,10 +11,9 @@ propagating data skills worldwide. Trainers continually build on their own pedag
 discussions about Instructor training. Trainers have opportunities to influence what we teach, through curriculum maintenance, and to steer the progress of this 
 community, through leadership roles. Trainers often play leadership roles in their home communities, mentoring local Instructors, and modeling best practices.
 
+Trainers play a crucial role in the Carpentries community an as such, maintaining the trainer badge is an active responsibility.  Trainers are welcome to move between active and alumni status as they need, but in order to serve the Carpentries community of learners with well prepare instructors, Trainers must replain up to date on the community and the curriculum in order to reatin active status. The Core Team will request a forecast of trainer availability on an annual basis in addition to quarterly scheduling.  
 
-##### Trainer Agreement
-
-Version 2.0.0 - Approved 2020-07-22
+##### Trainer Responsibilities
 
 I agree to follow the [Code of Conduct](../policies/code-of-conduct.md) (CoC) in all communications and interactions with The Carpentries community and to [promptly report any violations of the CoC](../policies/code-of-conduct.html#reporting-guidelines) that I become aware of.
 
@@ -24,14 +23,29 @@ I understand that the secondary learning outcomes of workshops are as important 
 - Model our focus on active, participatory learning in Instructor Training 
 - Connect the principles used in The Carpentries workshops with other teaching contexts  
 
-I understand that it is important to keep up to date and in touch with the Trainer community so that my teaching will reflect current practices and curriculum. To be an active Trainer, I agree to:
-- Engage in a minimum of 48 units of service to the Instructor Trainer community per calendar year. This service may include:
+##### Trainer Badge Maintainance
+
+_replaces trainer agreement__
+
+
+I understand that it is important to keep up to date and in touch with the Trainer community so that my teaching will reflect current practices and curriculum. To maintain an active trainer badge, a trainer must:
+- Engage in a minimum of 48 units of service to the Instructor Trainer community per calendar year. OR
+- Engage in a minimum of 1
+
+This service may include:
   - Teaching authorized Carpentries Instructor Training workshops, following The Carpentries [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/) (16 units each; minimum 1 per calendar year)
   - Hosting Carpentries teaching demonstrations (1 unit each; recommended 4 per calendar year)
   - Teaching additional Instructor Training-related content (e.g. ‘bonus modules’; 1 unit per instructional hour)
   - Attending Trainer meetings (1 unit each)
   - Serving The Carpentries community in an elected, appointed, or designated leadership role 
   (variable, as approved by Trainers leadership on a per-case basis, with 1 unit approximately equivalent to 1 hour commitment)
+
+Additional responsibilities that do not count towards the 48 units of service include: 
+
+- Reading minutes/notes from Trainer meetings when I am not able to attend
+- Reading emails sent to the Trainer listserv ([Topicbox](https://carpentries.topicbox.com/groups/trainers)). I will keep my email address on Topicbox up to date to ensure that I receive all communications in a timely manner. Update requests may be sent to team@carpentries.org.
+- Keeping up-to-date with the instructor training [curriculum](https://carpentries.github.io/instructor-training/) and related conversations on [GitHub](https://github.com/carpentries/instructor-training)
+- Providing feedback to other Trainers and Carpentries Core Team about workshops and teaching demonstrations to help continue developing our offerings
 
 I understand that any Trainer commitments specified in a Membership Agreement or Memorandum of 
 Understanding (MOU) add to my responsibilities and do not count towards these 48 units unless 
@@ -46,13 +60,6 @@ a per-case basis in the context of scholarship approval.
 
 I understand that Instructor Training workshops are considered “workshops” with respect to The Carpentries requirements for maintenance of [individual voting membership](https://docs.carpentries.org/topic_folders/governance/bylaws.html#individual-voting-membership). It is not necessary to 
 teach Data Carpentry, Library Carpentry, or Software Carpentry technical workshops to maintain active status as a Trainer.
-
-Additional responsibilities that do not count towards the 48 units of service include: 
-
-- Reading minutes/notes from Trainer meetings when I am not able to attend
-- Reading emails sent to the Trainer listserv ([Topicbox](https://carpentries.topicbox.com/groups/trainers)). I will keep my email address on Topicbox up to date to ensure that I receive all communications in a timely manner. Update requests may be sent to team@carpentries.org.
-- Keeping up-to-date with the instructor training [curriculum](https://carpentries.github.io/instructor-training/) and related conversations on [GitHub](https://github.com/carpentries/instructor-training)
-- Providing feedback to other Trainers and Carpentries Core Team about workshops and teaching demonstrations to help continue developing our offerings
 
 I understand that The Carpentries Core Team needs an accurate understanding of Trainer availability 
 in order to plan Instructor Training events. If at any point I am no longer able to serve as an 
