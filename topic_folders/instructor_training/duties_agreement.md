@@ -89,6 +89,6 @@ Trainer Alumni may select to:
 A Trainer who wishes to return to Active status will have a different path depending on the amount of time they’ve been inactive:
 - < 3 months no requirements - contact team@carpentries.org to request reinstatement
 - 3-12 months: meet with Director of Instructor Training to catch up on latest news & discuss plans for re-activating
-- >12 months: review Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with Director of Instructor Training to catch up and discuss plans, including re-introduction to the Trainer community via meetings or other arrangements.
+- \>12 months: review Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with Director of Instructor Training to catch up and discuss plans, including re-introduction to the Trainer community via meetings or other arrangements.
 
 
