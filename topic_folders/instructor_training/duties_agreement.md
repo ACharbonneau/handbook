@@ -11,7 +11,9 @@ propagating data skills worldwide. Trainers continually build on their own pedag
 discussions about Instructor training. Trainers have opportunities to influence what we teach, through curriculum maintenance, and to steer the progress of this 
 community, through leadership roles. Trainers often play leadership roles in their home communities, mentoring local Instructors, and modeling best practices.
 
-Trainers play a crucial role in the Carpentries community an as such, maintaining the trainer badge is an active responsibility.  Trainers are welcome to move between active and alumni status as they need, but in order to serve the Carpentries community of learners with well prepare instructors, Trainers must replain up to date on the community and the curriculum in order to reatin active status. The Core Team will request a forecast of trainer availability on an annual basis in addition to quarterly scheduling.  
+Trainers play a crucial role in the Carpentries community an as such, maintaining the trainer badge is an active responsibility.  Trainers are welcome to move between active and alumni status as they need, but in order to serve the Carpentries community of learners with well prepare instructors, Trainers must stay up to date on the community and the curriculum in order to reatin active status. 
+
+The Carpentries also relies on Trainers to teach as well as to host discussions and training demos. In order to ensure that there are enough Trainers for centralized Carpentries efforts, Trainers are asked to devote some of their time each year to centralized activities, even if most of their work is for a regional or local Carpentries effort. The Core Team will request a forecast of trainer availability on an annual basis in addition to quarterly scheduling.  
 
 ##### Trainer Responsibilities
 
@@ -27,8 +29,8 @@ I understand that the secondary learning outcomes of workshops are as important 
 
 _replaces trainer agreement__
 
-
 I understand that it is important to keep up to date and in touch with the Trainer community so that my teaching will reflect current practices and curriculum. To maintain an active trainer badge, a trainer must:
+
 - Engage in a minimum of 48 units of service to the Instructor Trainer community per calendar year. OR
 - Engage in a minimum of 1
 
